@@ -18,7 +18,7 @@
                             </div>
                             
                             <div class="alert alert-info py-2 shadow-sm">
-                                <small>💡 <b>Ghi chú:</b> Tài khoản <u>admin</u> / <u>admin</u></small>
+                                <small>💡 <b>Ghi Chú:</b> Tài Khoản <u>admin</u> / <u>admin</u></small>
                             </div>
                             
                             <button class="btn btn-primary btn-lg btn-block shadow-sm font-weight-bold">

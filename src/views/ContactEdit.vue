@@ -43,7 +43,7 @@ export default {
         async updateContact(data) {
     try {
         await ContactService.update(this.contact._id, data);
-        this.message = "Liên hệ được cập nhật thành công.";
+        this.message = "Liên Hệ Được Cập Nhật Thành Công.";
         setTimeout(() => {
             this.$router.push({ name: "contactbook" });
         }, 1000);
